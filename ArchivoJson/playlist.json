@@ -16,13 +16,13 @@
                 "name": "Jugando",
                 "description": "Para jugar vídeojuegos",
                 "songsNumber": 25,
-                "urlImage": ""
+                "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/jugando.jpg"
         },
         {
                 "name": "Ejercicio",
                 "description": "Para salir a correr",
                 "songsNumber": 32,
-                "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/ejercicio.jpg"
+                "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/correr.jpg"
         },
         {
                 "name": "Cocinar",
