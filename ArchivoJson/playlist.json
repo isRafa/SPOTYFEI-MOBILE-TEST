@@ -1,0 +1,41 @@
+{
+    "playlist": [
+        {
+                "name": "Estudiando",
+                "description": "Para programar",
+                "songsNumber": 20,
+                "urlImage": ""
+        },
+        {
+                "name": "Child",
+                "description": "Para cuando hayas terminado los proyectos",
+                "songsNumber": 30,
+                "urlImage": ""
+        },
+        {
+                "name": "Jugando",
+                "description": "Para jugar vídeojuegos",
+                "songsNumber": 25,
+                "urlImage": ""
+        },
+        {
+                "name": "Ejercicio",
+                "description": "Para salir a correr",
+                "songsNumber": 32,
+                "urlImage": ""
+        },
+        {
+                "name": "Cocinar",
+                "description": "Para cocinar las patatas",
+                "songsNumber": 29,
+                "urlImage": ""
+        },
+        {
+                "name": "Marshmello",
+                "description": "Por si te gusta la música electrónica",
+                "songsNumber": 10,
+                "urlImage": ""  
+        }
+                
+    ]
+}
