@@ -1,0 +1,47 @@
+{
+    "albumes": [
+        {
+            "nombre": "18 months",
+            "nombreArtista": "Calvin Harris",
+            "numeroCanciones": 20,
+            "fechaLanzamiento": "22/05/2020",
+            "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/18months.jpg"
+        },
+        {
+            "nombre": "Nothing But The Beat",
+            "nombreArtista": "David Guetta",
+            "numeroCanciones": 20,
+            "fechaLanzamiento": "22/05/2020",
+            "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/nothingBB.jpg"
+        },
+        {
+            "nombre": "Joytime III",
+            "nombreArtista": "Marshmello",
+            "numeroCanciones": 20,
+            "fechaLanzamiento": "22/05/2020",
+            "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/joytime3.jpg"
+        },
+        {
+            "nombre": "Seven",
+            "nombreArtista": "Martin Garrix",
+            "numeroCanciones": 7,
+            "fechaLanzamiento": "22/05/2020",
+            "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/seven.jpg"
+        },
+        {
+            "nombre": "Encore",
+            "nombreArtista": "Dj Snake",
+            "numeroCanciones": 20,
+            "fechaLanzamiento": "22/05/2020",
+            "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/encore.jpg"
+        },
+        {
+            "nombre": "Forever",
+            "nombreArtista": "Alesso",
+            "numeroCanciones": 20,
+            "fechaLanzamiento": "22/05/2020",
+            "urlImage": "https://raw.githubusercontent.com/isRafa/SPOTYFEI-MOBILE-TEST/master/Imagenes/forever.png"
+        }
+                
+    ]
+}
