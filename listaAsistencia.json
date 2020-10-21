@@ -1,0 +1,54 @@
+{
+    "listaAsistencia":[
+        {
+            "nombre": "Juan Carlos Suárez Hernández",
+            "edad": 21,
+            "email": "juan@gmail.com"
+        },
+        {
+            "nombre": "Raúl Condado González",
+            "edad": 38,
+            "email": "rulo@gmail.com"
+        },
+        {
+            "nombre": "Luis Fernando Onofre Pedroza",
+            "edad": 23,
+            "email": "luisf@gmail.com"
+        },
+        {
+            "nombre": "Rafael Andrade Méndez",
+            "edad": 22,
+            "email": "andrade@gmail.com"
+        },
+        {
+            "nombre": "José Norberto Maldonado Landa",
+            "edad": 21,
+            "email": "norbert@gmail.com"
+        },
+        {
+            "nombre": "Luis Roberto Herrera Hernández",
+            "edad": 22,
+            "email": "luishh@gmail.com"
+        },
+        {
+            "nombre": "Mauricio Cruz Portilla",
+            "edad": 21,
+            "email": "mau@gmail.com"
+        },
+        {
+            "nombre": "Arturo Iván Romero Peña",
+            "edad": 21,
+            "email": "arturo@gmail.com"
+        },
+        {
+            "nombre": "Josué Acevedo Suárez",
+            "edad": 22,
+            "email": "josue@gmail.com"
+        },
+        {
+            "nombre": "Rafael Colorado Fernández",
+            "edad": 21,
+            "email": "colors@gmail.com"
+        }
+    ]
+}
