@@ -1,54 +1,74 @@
 {
     "listaAsistencia":[
         {
+            "id": 1,
             "nombre": "Juan Carlos Suárez Hernández",
             "edad": 21,
-            "email": "juan@gmail.com"
+            "email": "juan@gmail.com",
+            "estado": true
         },
         {
+            "id": 2,
             "nombre": "Raúl Condado González",
             "edad": 38,
-            "email": "rulo@gmail.com"
+            "email": "rulo@gmail.com",
+            "estado": false
         },
         {
+            "id": 3,
             "nombre": "Luis Fernando Onofre Pedroza",
             "edad": 23,
-            "email": "luisf@gmail.com"
+            "email": "luisf@gmail.com",
+            "estado": true
         },
         {
+            "id": 4,
             "nombre": "Rafael Andrade Méndez",
             "edad": 22,
-            "email": "andrade@gmail.com"
+            "email": "andrade@gmail.com",
+            "estado": true
         },
         {
+            "id": 5,
             "nombre": "José Norberto Maldonado Landa",
             "edad": 21,
-            "email": "norbert@gmail.com"
+            "email": "norbert@gmail.com",
+            "estado": false
         },
         {
+            "id": 6,
             "nombre": "Luis Roberto Herrera Hernández",
             "edad": 22,
-            "email": "luishh@gmail.com"
+            "email": "luishh@gmail.com",
+            "estado": true
         },
         {
+            "id": 7,
             "nombre": "Mauricio Cruz Portilla",
             "edad": 21,
-            "email": "mau@gmail.com"
+            "email": "mau@gmail.com",
+            "estado": true
         },
         {
+            "id": 8,
             "nombre": "Arturo Iván Romero Peña",
             "edad": 21,
-            "email": "arturo@gmail.com"
+            "email": "arturo@gmail.com",
+            "estado": true
         },
         {
+            "id": 9,
             "nombre": "Josué Acevedo Suárez",
             "edad": 22,
-            "email": "josue@gmail.com"
+            "email": "josue@gmail.com",
+            "estado": false
         },
         {
+            "id": 10,
             "nombre": "Rafael Colorado Fernández",
             "edad": 21,
-            "email": "colors@gmail.com"
+            "email": "colors@gmail.com",
+            "estado": true
         }
     ]
 }
